@@ -1,5 +1,5 @@
 c = input("pls enter a character: ")
-if c in ('a', 'e', 'i', 'o', 'u'):
-	print("it is vowel-"+c)
+if c in ('a', 'e', 'i', 'o', 'u','A','E','I','O','U'):
+	print("it is vowel-")
 else:
-	print("it is consonant-"+c )
+	print("it is consonant-" )
